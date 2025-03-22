@@ -1,9 +1,11 @@
 .header {
     display: flex;
+
 }
 
 .img_bicycle {
-    width: 100vw;
+    width: 1280px;
+    height: 600px;
 }
 
 .profile {
@@ -15,8 +17,12 @@
     height: 40px;
     text-align: center;
     font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
-.menu {
-    display: flex;
+.menus {
+    font-size: 14px;
+    justify-content: right;
+
 }
