@@ -2,11 +2,21 @@
     display: flex;
 }
 
-.img_bycycle {
+.img_bicycle {
     width: 100vw;
 }
 
-.header .profile {
+.profile {
     background-color: black;
     color: white;
+    padding-top: 10px;
+    margin-left: 230px;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.menu {
+    display: flex;
 }
