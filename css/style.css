@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+}
+
+.img_bycycle {
+    width: 100vw;
+}
+
+.header .profile {
+    background-color: black;
+    color: white;
+}
